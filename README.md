@@ -1,2 +1,2 @@
-### simple_games
+### Simple Games
 Simple cmd line games
